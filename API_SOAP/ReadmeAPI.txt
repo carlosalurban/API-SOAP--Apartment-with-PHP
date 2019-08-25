@@ -1,0 +1,2 @@
+For a correct functionaly on development do you need to configure your php.ini on localhost erasing the semicolon ';' on the front of 'extension=soap';
+On production You need to change the constants from the params of database and put your own location, the same way if you change the name of database.

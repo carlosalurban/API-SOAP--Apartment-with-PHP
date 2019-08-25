@@ -1,0 +1,1 @@
+This is only an example of a database for this API SOAP, some changes on columns or relations between tables, could be affect the API and need some changes on the Querys.
